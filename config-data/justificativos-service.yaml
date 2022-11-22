@@ -1,5 +1,8 @@
 server:
   port: 8383
+spring:
+  application:
+    name: justificativos-service
 eureka:
   client:
     fetch-registry: true

@@ -1,5 +1,8 @@
 server:
   port: 8282
+spring:
+  application:
+    name: autorizacion-service
 eureka:
   client:
     fetch-registry: true
